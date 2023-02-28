@@ -1,0 +1,15 @@
+{
+  "name": "test-conoscitivo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fantino Davide",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "prompt": "^1.3.0"
+  }
+}
